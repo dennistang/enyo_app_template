@@ -1,0 +1,10 @@
+{
+	"id": "com.mycompany.app",
+	"version": "1.0.0",
+	"vendor": "Enyo",
+	"type": "web",
+	"main": "index.html",
+	"title": "enyo_template",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
